@@ -15,6 +15,7 @@ What kind of change does this PR introduce?
 - [ ] Build
 - [ ] CI
 - [ ] Documentation
+- [ ] Dependency
 - [ ] Other... Please describe:
 
 ## Does this PR introduce a breaking change?
