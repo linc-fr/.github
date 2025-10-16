@@ -2,38 +2,13 @@
 
 # Description
 
-## PR Type
-
-What kind of change does this PR introduce?
-
-<!-- Please check the one that applies to this PR using "x". -->
-
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Code style
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build
-- [ ] CI
-- [ ] Documentation
-- [ ] Dependency
-- [ ] Other... Please describe:
+<!--- Please link your PR to a linear issues, either manually if not done via the automated generated branch name usage -->
 
 ## Does this PR introduce a breaking change?
 <!--- If yes, please add the label `💥 Breaking Change` -->
 
 - [ ] Yes
 - [ ] No
-
-<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. When possible describe it in a documentation -->
-
-## What is the current behavior?
-<!-- Please describe the current behavior that you are modifying, with link to a relevant issue. -->
-
-Issue Link: https://github.com/linc-fr/product/issues/...
-
-## What is the new behavior?
-<!--- Describe your changes in detail, this can be the list of changes you made, or a description of the changes you made -->
-<!--- This could be, for example, the list of commit messages you made -->
 
 ## Screenshots (if appropriate)
 
